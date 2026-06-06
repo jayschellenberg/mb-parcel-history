@@ -1,45 +1,35 @@
 {
   "dataset": "mb-parcel-history",
-  "schema": 1,
-  "generated": "2026-06-06T10:05:48-0500",
+  "schema": 2,
+  "generated": "2026-06-06T12:05:49-0500",
   "cdn": "https://cdn.jsdelivr.net/gh/jayschellenberg/mb-parcel-history@main",
-  "years": {
-    "2025": {
+  "snapshots": {
+    "2026-06-05": {
+      "snapshot_id": "2026-06-05",
       "layers": {
         "parcels": {
-          "date": "2025-02-12",
-          "munis": 186,
-          "features": 435177
+          "source_date": "2026-06-05"
         },
         "zoning": {
-          "date": "2025-02-22",
-          "munis": 138,
-          "features": 20238
+          "source_date": "2026-06-03"
         },
         "devplan": {
-          "date": "2025-04-11",
-          "munis": 145,
-          "features": 4431
+          "source_date": "2026-06-03"
         }
       },
       "muni_count": 186
     },
-    "2026": {
+    "2025-02-12": {
+      "snapshot_id": "2025-02-12",
       "layers": {
         "parcels": {
-          "date": "2026-06-05",
-          "munis": 186,
-          "features": 437757
+          "source_date": "2025-02-12"
         },
         "zoning": {
-          "date": "2026-06-03",
-          "munis": 138,
-          "features": 19461
+          "source_date": "2025-02-22"
         },
         "devplan": {
-          "date": "2026-06-03",
-          "munis": 142,
-          "features": 4327
+          "source_date": "2025-04-11"
         }
       },
       "muni_count": 186

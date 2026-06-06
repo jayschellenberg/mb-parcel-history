@@ -1,18 +1,49 @@
 {
-  "year": 2025,
+  "schema": 2,
+  "snapshot_id": "2025-02-12",
+  "generated": "2026-06-06T12:04:08-0500",
+  "generator": {
+    "script": "build_historical_shards.R",
+    "commit": "8cc6e1d3",
+    "crs": "EPSG:4326",
+    "simplify_tolerance_deg": 0.00015,
+    "geometry_note": "Geometry simplified ~10 m for display — NOT survey-accurate. Resolve acreage/boundary evidence to the archived source-of-record (layers[].source_file / sha256)."
+  },
+  "disclaimer": "Historical zoning/dev-plan are pointers to likely by-law/designation context as of the source date; verify against municipal / planning-district records and registered plans/titles. Not a legal survey or legal determination.",
   "layers": {
     "parcels": {
-      "date": "2025-02-12",
+      "source_file": "MBRollGeoPackage20250212.gpkg",
+      "source_date": "2025-02-12",
+      "retrieved_at": "2025-02-12T11:03:30-0600",
+      "retrieved_at_inferred": true,
+      "sha256": "c4f46bce6db8d3cbbdc3fdd73fc6dcc6ea3ecdb75f2650ca689651b3a1621362",
+      "bytes": 229281792,
+      "source_url": "https://geoportal.gov.mb.ca/datasets/manitoba::roll-entry/explore",
+      "license": "Open Government Licence – Manitoba (verify current terms)",
       "munis": 186,
       "features": 435177
     },
     "zoning": {
-      "date": "2025-02-22",
+      "source_file": "Manitoba_Zoning_Bylaws20250222.geojson",
+      "source_date": "2025-02-22",
+      "retrieved_at": "2025-02-22T11:01:36-0600",
+      "retrieved_at_inferred": true,
+      "sha256": "612257eea5a344dfbb850b2be1c667d5a9ef8d01b339da547a57dee31452c84b",
+      "bytes": 66271499,
+      "source_url": "https://geoportal.gov.mb.ca/datasets/manitoba-zoning-by-laws/",
+      "license": "Open Government Licence – Manitoba (verify current terms)",
       "munis": 138,
       "features": 20238
     },
     "devplan": {
-      "date": "2025-04-11",
+      "source_file": "Manitoba_Development_Plan_Designations20250411.geojson",
+      "source_date": "2025-04-11",
+      "retrieved_at": "2025-04-11T07:43:29-0500",
+      "retrieved_at_inferred": true,
+      "sha256": "191e018712df875625aaa9542fa2d5ccd8b3f164fa8224db012397854e296269",
+      "bytes": 30256142,
+      "source_url": "https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-development-plan-designations/about",
+      "license": "Open Government Licence – Manitoba (verify current terms)",
       "munis": 145,
       "features": 4431
     }
