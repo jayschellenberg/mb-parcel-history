@@ -1,0 +1,93 @@
+{
+  "schema": 1,
+  "muni_no": 101,
+  "snapshots": ["2025-02-12", "2026-06-05"],
+  "generated": "2026-06-06T12:50:26-0500",
+  "disclaimer": "Inferred from geometry overlap of public parcel snapshots — NOT authoritative lineage. Verify against registered plans of subdivision / consolidation and certificates of title.",
+  "events": [
+    {
+      "type": "replacement",
+      "from_snapshot": "2025-02-12",
+      "to_snapshot": "2026-06-05",
+      "from": [
+        {
+          "roll": "107300.000",
+          "area_ac": 1.22
+        }
+      ],
+      "to": [
+        {
+          "roll": "107400.000",
+          "area_ac": 9.96
+        }
+      ],
+      "confidence": 0.99
+    },
+    {
+      "type": "replacement",
+      "from_snapshot": "2025-02-12",
+      "to_snapshot": "2026-06-05",
+      "from": [
+        {
+          "roll": "243500.000",
+          "area_ac": 149.95
+        }
+      ],
+      "to": [
+        {
+          "roll": "243560.000",
+          "area_ac": 14.29
+        }
+      ],
+      "confidence": 0.83
+    }
+  ],
+  "by_roll": {
+    "107400.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 0.99,
+      "predecessors": [
+        {
+          "snapshot": "2025-02-12",
+          "roll": "107300.000"
+        }
+      ]
+    },
+    "107300.000": {
+      "snapshot": "2025-02-12",
+      "type": "replacement",
+      "confidence": 0.99,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "107400.000"
+        }
+      ]
+    },
+    "243560.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 0.83,
+      "predecessors": [
+        {
+          "snapshot": "2025-02-12",
+          "roll": "243500.000"
+        }
+      ]
+    },
+    "243500.000": {
+      "snapshot": "2025-02-12",
+      "type": "replacement",
+      "confidence": 0.83,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "243560.000"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "muni_no": 435,
+  "snapshots": ["2025-02-12", "2026-06-05"],
+  "generated": "2026-06-06T12:50:27-0500",
+  "disclaimer": "Inferred from geometry overlap of public parcel snapshots — NOT authoritative lineage. Verify against registered plans of subdivision / consolidation and certificates of title.",
+  "events": [
+    {
+      "type": "replacement",
+      "from_snapshot": "2025-02-12",
+      "to_snapshot": "2026-06-05",
+      "from": [
+        {
+          "roll": "40400.000",
+          "area_ac": 0.08
+        }
+      ],
+      "to": [
+        {
+          "roll": "40300.000",
+          "area_ac": 0.28
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "subdivision",
+      "from_snapshot": "2025-02-12",
+      "to_snapshot": "2026-06-05",
+      "from": [
+        {
+          "roll": "104900.000",
+          "area_ac": 1.36
+        }
+      ],
+      "to": [
+        {
+          "roll": "104905.000",
+          "area_ac": 0.43
+        },
+        {
+          "roll": "104910.000",
+          "area_ac": 0.44
+        }
+      ],
+      "confidence": 0.96
+    }
+  ],
+  "by_roll": {
+    "40300.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 0.9,
+      "predecessors": [
+        {
+          "snapshot": "2025-02-12",
+          "roll": "40400.000"
+        }
+      ]
+    },
+    "40400.000": {
+      "snapshot": "2025-02-12",
+      "type": "replacement",
+      "confidence": 0.9,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "40300.000"
+        }
+      ]
+    },
+    "104905.000": {
+      "snapshot": "2026-06-05",
+      "type": "subdivision",
+      "confidence": 0.96,
+      "predecessors": [
+        {
+          "snapshot": "2025-02-12",
+          "roll": "104900.000"
+        }
+      ]
+    },
+    "104910.000": {
+      "snapshot": "2026-06-05",
+      "type": "subdivision",
+      "confidence": 0.96,
+      "predecessors": [
+        {
+          "snapshot": "2025-02-12",
+          "roll": "104900.000"
+        }
+      ]
+    },
+    "104900.000": {
+      "snapshot": "2025-02-12",
+      "type": "subdivision",
+      "confidence": 0.96,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "104905.000"
+        },
+        {
+          "snapshot": "2026-06-05",
+          "roll": "104910.000"
+        }
+      ]
+    }
+  }
+}
