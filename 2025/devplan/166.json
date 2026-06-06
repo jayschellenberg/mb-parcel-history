@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "166",
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "DES_NAME": null, "DES_CATEGORY": null, "DP_BYLAW": null, "DPA_BYLAW": null, "PLANNINGDISTRICT": null, "MUNI_NAME": "RIVERSIDE RM" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -99.619353, 49.40273 ], [ -99.619362, 49.406845 ], [ -99.641868, 49.406878 ], [ -99.641868, 49.392133 ], [ -99.630798, 49.392115 ], [ -99.630795, 49.394029 ], [ -99.63165, 49.395646 ], [ -99.631154, 49.396653 ], [ -99.630379, 49.397002 ], [ -99.62939, 49.398166 ], [ -99.626785, 49.399855 ], [ -99.623023, 49.401505 ], [ -99.619353, 49.40273 ] ] ] } }
+]
+}

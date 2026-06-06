@@ -1,0 +1,766 @@
+{
+  "year": 2026,
+  "layers": {
+    "parcels": {
+      "date": "2026-06-05",
+      "munis": 186,
+      "features": 437757
+    },
+    "zoning": {
+      "date": "2026-06-03",
+      "munis": 138,
+      "features": 19461
+    },
+    "devplan": {
+      "date": "2026-06-03",
+      "munis": 142,
+      "features": 4327
+    }
+  },
+  "munis": {
+    "163": {
+      "name": "PORTAGE LA PRAIRIE (RM)",
+      "parcels": 6780
+    },
+    "176": {
+      "name": "ST CLEMENTS (RM)",
+      "parcels": 8481
+    },
+    "500": {
+      "name": "BRANDON (CITY)",
+      "parcels": 17307
+    },
+    "146": {
+      "name": "MACDONALD (RM)",
+      "parcels": 6171
+    },
+    "172": {
+      "name": "ROSSER (RM)",
+      "parcels": 1801
+    },
+    "401": {
+      "name": "BEAUSEJOUR (TOWN)",
+      "parcels": 1784
+    },
+    "403": {
+      "name": "PRAIRIE VIEW  (MUNICIPALITY)",
+      "parcels": 4059
+    },
+    "407": {
+      "name": "CARBERRY (TOWN)",
+      "parcels": 915
+    },
+    "409": {
+      "name": "CARMAN (TOWN)",
+      "parcels": 1514
+    },
+    "428": {
+      "name": "LEAF RAPIDS (TOWN)",
+      "parcels": 514
+    },
+    "429": {
+      "name": "MELITA (TOWN)",
+      "parcels": 691
+    },
+    "437": {
+      "name": "NEEPAWA (TOWN)",
+      "parcels": 1832
+    },
+    "443": {
+      "name": "RIVERDALE  (MUNICIPALITY)",
+      "parcels": 2019
+    },
+    "447": {
+      "name": "SELKIRK (CITY)",
+      "parcels": 4122
+    },
+    "448": {
+      "name": "SNOW LAKE (TOWN)",
+      "parcels": 732
+    },
+    "449": {
+      "name": "SOURIS-GLENWOOD (MUNICIPALITY)",
+      "parcels": 2202
+    },
+    "451": {
+      "name": "STEINBACH (CITY)",
+      "parcels": 7197
+    },
+    "616": {
+      "name": "PINAWA (LGD)",
+      "parcels": 1195
+    },
+    "129": {
+      "name": "GIMLI (RM)",
+      "parcels": 6964
+    },
+    "201": {
+      "name": "WEST ST PAUL (RM)",
+      "parcels": 4964
+    },
+    "178": {
+      "name": "ST LAURENT (RM)",
+      "parcels": 2877
+    },
+    "457": {
+      "name": "THE PAS (TOWN)",
+      "parcels": 2292
+    },
+    "461": {
+      "name": "VIRDEN (TOWN)",
+      "parcels": 1783
+    },
+    "465": {
+      "name": "WINNIPEG BEACH (TOWN)",
+      "parcels": 1824
+    },
+    "560": {
+      "name": "THOMPSON (CITY)",
+      "parcels": 3989
+    },
+    "600": {
+      "name": "ALEXANDER (RM)",
+      "parcels": 7240
+    },
+    "601": {
+      "name": "ALONSA (RM)",
+      "parcels": 5491
+    },
+    "602": {
+      "name": "ARMSTRONG (RM)",
+      "parcels": 3952
+    },
+    "603": {
+      "name": "CHURCHILL (TOWN)",
+      "parcels": 445
+    },
+    "604": {
+      "name": "KELSEY (RM)",
+      "parcels": 3049
+    },
+    "606": {
+      "name": "GRAHAMDALE (RM)",
+      "parcels": 5541
+    },
+    "609": {
+      "name": "HARRISON PARK (MUNICIPALITY)",
+      "parcels": 4269
+    },
+    "540": {
+      "name": "FLIN FLON (CITY)",
+      "parcels": 2853
+    },
+    "611": {
+      "name": "REYNOLDS (RM)",
+      "parcels": 5044
+    },
+    "614": {
+      "name": "LYNN LAKE (TOWN)",
+      "parcels": 782
+    },
+    "615": {
+      "name": "GRAND RAPIDS (TOWN)",
+      "parcels": 379
+    },
+    "453": {
+      "name": "STONEWALL (TOWN)",
+      "parcels": 2248
+    },
+    "608": {
+      "name": "MYSTERY LAKE (LGD)",
+      "parcels": 111
+    },
+    "617": {
+      "name": "MOUNTAIN (RM)",
+      "parcels": 5291
+    },
+    "619": {
+      "name": "GILLAM (TOWN)",
+      "parcels": 450
+    },
+    "755": {
+      "name": "ISLAND LAKE (NORTHERN COMMUNITY)",
+      "parcels": 126
+    },
+    "351": {
+      "name": "STE ANNE (TOWN)",
+      "parcels": 1108
+    },
+    "700": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (700)",
+      "parcels": 197
+    },
+    "411": {
+      "name": "DAUPHIN (CITY)",
+      "parcels": 3681
+    },
+    "127": {
+      "name": "EMERSON-FRANKLIN (MUNICIPALITY)",
+      "parcels": 3370
+    },
+    "550": {
+      "name": "PORTAGE LA PRAIRIE (CITY)",
+      "parcels": 5516
+    },
+    "208": {
+      "name": "HEADINGLEY (RM)",
+      "parcels": 2477
+    },
+    "463": {
+      "name": "WINKLER (CITY)",
+      "parcels": 6143
+    },
+    "199": {
+      "name": "WALLACE-WOODWORTH (RM)",
+      "parcels": 4457
+    },
+    "189": {
+      "name": "SPRINGFIELD (RM)",
+      "parcels": 9070
+    },
+    "359": {
+      "name": "STE. ROSE (MUNICIPALITY)",
+      "parcels": 1931
+    },
+    "455": {
+      "name": "SWAN RIVER (TOWN)",
+      "parcels": 2242
+    },
+    "149": {
+      "name": "MINITONAS-BOWSMAN (MUNICIPALITY)",
+      "parcels": 2643
+    },
+    "193": {
+      "name": "SWAN VALLEY WEST (MUNICIPALITY)",
+      "parcels": 3702
+    },
+    "101": {
+      "name": "ELLICE-ARCHIE (RM)",
+      "parcels": 2325
+    },
+    "105": {
+      "name": "BIFROST-RIVERTON (MUNICIPALITY)",
+      "parcels": 4825
+    },
+    "107": {
+      "name": "OAKVIEW (RM)",
+      "parcels": 2767
+    },
+    "109": {
+      "name": "BRENDA-WASKADA (MUNICIPALITY)",
+      "parcels": 1812
+    },
+    "111": {
+      "name": "GRASSLAND (MUNICIPALITY)",
+      "parcels": 3031
+    },
+    "112": {
+      "name": "CARTIER (RM)",
+      "parcels": 2317
+    },
+    "115": {
+      "name": "COLDWELL (RM)",
+      "parcels": 2490
+    },
+    "116": {
+      "name": "CORNWALLIS (RM)",
+      "parcels": 2050
+    },
+    "118": {
+      "name": "DAUPHIN (RM)",
+      "parcels": 3550
+    },
+    "119": {
+      "name": "DE SALABERRY (RM)",
+      "parcels": 3349
+    },
+    "120": {
+      "name": "DUFFERIN (RM)",
+      "parcels": 2554
+    },
+    "121": {
+      "name": "EAST ST PAUL (RM)",
+      "parcels": 4141
+    },
+    "122": {
+      "name": "TWO BORDERS (MUNICIPALITY)",
+      "parcels": 4316
+    },
+    "124": {
+      "name": "ELTON (RM)",
+      "parcels": 1497
+    },
+    "126": {
+      "name": "ETHELBERT (MUNICIPALITY)",
+      "parcels": 1974
+    },
+    "135": {
+      "name": "HANOVER (RM)",
+      "parcels": 7780
+    },
+    "144": {
+      "name": "LORNE (MUNICIPALITY)",
+      "parcels": 2998
+    },
+    "151": {
+      "name": "MONTCALM (RM)",
+      "parcels": 1777
+    },
+    "153": {
+      "name": "BOISSEVAIN-MORTON (MUNICIPALITY)",
+      "parcels": 2579
+    },
+    "161": {
+      "name": "PEMBINA (MUNICIPALITY)",
+      "parcels": 3221
+    },
+    "164": {
+      "name": "RHINELAND (MUNICIPALITY)",
+      "parcels": 5158
+    },
+    "712": {
+      "name": "PIKWITONEI (NORTHERN COMMUNITY)",
+      "parcels": 113
+    },
+    "132": {
+      "name": "GRANDVIEW  (MUNICIPALITY)",
+      "parcels": 2143
+    },
+    "133": {
+      "name": "GREY (RM)",
+      "parcels": 3034
+    },
+    "138": {
+      "name": "LA BROQUERIE (RM)",
+      "parcels": 3633
+    },
+    "139": {
+      "name": "LAC DU BONNET (RM)",
+      "parcels": 5736
+    },
+    "142": {
+      "name": "GLENELLA-LANSDOWNE (MUNICIPALITY)",
+      "parcels": 2565
+    },
+    "143": {
+      "name": "LAKESHORE (RM)",
+      "parcels": 3452
+    },
+    "145": {
+      "name": "LOUISE (MUNICIPALITY)",
+      "parcels": 2705
+    },
+    "147": {
+      "name": "MCCREARY (MUNICIPALITY)",
+      "parcels": 1345
+    },
+    "188": {
+      "name": "NORFOLK TREHERNE (MUNICIPALITY)",
+      "parcels": 2082
+    },
+    "190": {
+      "name": "STANLEY (RM)",
+      "parcels": 4616
+    },
+    "197": {
+      "name": "VICTORIA (RM)",
+      "parcels": 1603
+    },
+    "198": {
+      "name": "VICTORIA BEACH (RM)",
+      "parcels": 1929
+    },
+    "202": {
+      "name": "WHITEHEAD (RM)",
+      "parcels": 1673
+    },
+    "431": {
+      "name": "MINNEDOSA (TOWN)",
+      "parcels": 1623
+    },
+    "445": {
+      "name": "RUSSELL-BINSCARTH (MUNICIPALITY)",
+      "parcels": 2548
+    },
+    "152": {
+      "name": "MORRIS (RM)",
+      "parcels": 3968
+    },
+    "154": {
+      "name": "MOSSEY RIVER (MUNICIPALITY)",
+      "parcels": 2824
+    },
+    "155": {
+      "name": "NORTH CYPRESS-LANGFORD (MUNICIPALITY)",
+      "parcels": 3846
+    },
+    "156": {
+      "name": "NORTH NORFOLK (MUNICIPALITY)",
+      "parcels": 3652
+    },
+    "157": {
+      "name": "OAKLAND-WAWANESA (MUNICIPALITY)",
+      "parcels": 1677
+    },
+    "162": {
+      "name": "PIPESTONE (RM)",
+      "parcels": 2760
+    },
+    "165": {
+      "name": "RITCHOT (RM)",
+      "parcels": 4632
+    },
+    "167": {
+      "name": "CARTWRIGHT-ROBLIN  (MUNICIPALITY)",
+      "parcels": 1745
+    },
+    "168": {
+      "name": "ROCKWOOD (RM)",
+      "parcels": 5029
+    },
+    "169": {
+      "name": "ROLAND (RM)",
+      "parcels": 1317
+    },
+    "170": {
+      "name": "ROSEDALE (RM)",
+      "parcels": 2033
+    },
+    "194": {
+      "name": "TACHE (RM)",
+      "parcels": 5871
+    },
+    "206": {
+      "name": "WOODLANDS (RM)",
+      "parcels": 3837
+    },
+    "400": {
+      "name": "ALTONA (TOWN)",
+      "parcels": 2094
+    },
+    "174": {
+      "name": "ST ANDREWS (RM)",
+      "parcels": 7238
+    },
+    "175": {
+      "name": "STE ANNE (RM)",
+      "parcels": 2993
+    },
+    "181": {
+      "name": "RIDING MOUNTAIN WEST (RM)",
+      "parcels": 4057
+    },
+    "182": {
+      "name": "ROBLIN (MUNICIPALITY)",
+      "parcels": 4269
+    },
+    "183": {
+      "name": "YELLOWHEAD (MUNICIPALITY)",
+      "parcels": 3437
+    },
+    "184": {
+      "name": "SIFTON (RM)",
+      "parcels": 2426
+    },
+    "185": {
+      "name": "WEST INTERLAKE (RM)",
+      "parcels": 4549
+    },
+    "187": {
+      "name": "GLENBORO-SOUTH CYPRESS (MUNICIPALITY)",
+      "parcels": 1892
+    },
+    "192": {
+      "name": "PRAIRIE LAKES (RM)",
+      "parcels": 3135
+    },
+    "195": {
+      "name": "THOMPSON (RM)",
+      "parcels": 1474
+    },
+    "196": {
+      "name": "KILLARNEY TURTLE MOUNTAIN (MUNICIPALITY)",
+      "parcels": 3681
+    },
+    "200": {
+      "name": "WESTLAKE-GLADSTONE (MUNICIPALITY)",
+      "parcels": 4657
+    },
+    "203": {
+      "name": "WHITEMOUTH (RM)",
+      "parcels": 2387
+    },
+    "205": {
+      "name": "DELORAINE-WINCHESTER (MUNICIPALITY)",
+      "parcels": 2299
+    },
+    "300": {
+      "name": "ARBORG (TOWN)",
+      "parcels": 655
+    },
+    "311": {
+      "name": "DUNNOTTAR (VILLAGE)",
+      "parcels": 1384
+    },
+    "323": {
+      "name": "GILBERT PLAINS  (MUNICIPALITY)",
+      "parcels": 2333
+    },
+    "333": {
+      "name": "LAC DU BONNET (TOWN)",
+      "parcels": 689
+    },
+    "340": {
+      "name": "NIVERVILLE (TOWN)",
+      "parcels": 2610
+    },
+    "347": {
+      "name": "POWERVIEW-PINE FALLS (TOWN)",
+      "parcels": 645
+    },
+    "357": {
+      "name": "ST PIERRE-JOLYS (VILLAGE)",
+      "parcels": 521
+    },
+    "363": {
+      "name": "TEULON (TOWN)",
+      "parcels": 697
+    },
+    "102": {
+      "name": "ARGYLE (RM)",
+      "parcels": 1894
+    },
+    "110": {
+      "name": "BROKENHEAD (RM)",
+      "parcels": 4436
+    },
+    "435": {
+      "name": "MORRIS (TOWN)",
+      "parcels": 1046
+    },
+    "114": {
+      "name": "CLANWILLIAM-ERICKSON (MUNICIPALITY)",
+      "parcels": 1396
+    },
+    "610": {
+      "name": "PINEY (RM)",
+      "parcels": 3706
+    },
+    "612": {
+      "name": "STUARTBURN (RM)",
+      "parcels": 2699
+    },
+    "353": {
+      "name": "ROSSBURN  (MUNICIPALITY)",
+      "parcels": 2064
+    },
+    "433": {
+      "name": "MORDEN (CITY)",
+      "parcels": 4482
+    },
+    "331": {
+      "name": "HAMIOTA  (MUNICIPALITY)",
+      "parcels": 1618
+    },
+    "702": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (702)",
+      "parcels": 725
+    },
+    "703": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (703)",
+      "parcels": 340
+    },
+    "159": {
+      "name": "MINTO-ODANAH (RM)",
+      "parcels": 1777
+    },
+    "713": {
+      "name": "SHERRIDON (NORTHERN COMMUNITY)",
+      "parcels": 389
+    },
+    "781": {
+      "name": "BADEN (NORTHERN SETTLEMENT)",
+      "parcels": 45
+    },
+    "784": {
+      "name": "CORMORANT (NORTHERN COMMUNITY)",
+      "parcels": 273
+    },
+    "701": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (701)",
+      "parcels": 1498
+    },
+    "752": {
+      "name": "HARWILL (NORTHERN COMMUNITY)",
+      "parcels": 389
+    },
+    "605": {
+      "name": "FISHER (RM)",
+      "parcels": 3216
+    },
+    "787": {
+      "name": "MOOSE LAKE (NORTHERN COMMUNITY)",
+      "parcels": 193
+    },
+    "747": {
+      "name": "DALLAS/RED ROSE (NORTHERN COMMUNITY)",
+      "parcels": 374
+    },
+    "782": {
+      "name": "BARROWS (NORTHERN COMMUNITY)",
+      "parcels": 85
+    },
+    "177": {
+      "name": "ST FRANCOIS XAVIER (RM)",
+      "parcels": 957
+    },
+    "788": {
+      "name": "NATIONAL MILLS (NORTHERN COMMUNITY)",
+      "parcels": 36
+    },
+    "789": {
+      "name": "PELICAN RAPIDS (NORTHERN COMMUNITY)",
+      "parcels": 70
+    },
+    "785": {
+      "name": "DAWSON BAY (NORTHERN COMMUNITY)",
+      "parcels": 46
+    },
+    "792": {
+      "name": "RED DEER LAKE (NORTHERN COMMUNITY)",
+      "parcels": 47
+    },
+    "786": {
+      "name": "DUCK BAY (NORTHERN COMMUNITY)",
+      "parcels": 265
+    },
+    "750": {
+      "name": "FISHER BAY (NORTHERN COMMUNITY)",
+      "parcels": 176
+    },
+    "748": {
+      "name": "DAUPHIN RIVER (NORTHERN COMMUNITY)",
+      "parcels": 50
+    },
+    "741": {
+      "name": "AGHAMING (NORTHERN SETTLEMENT)",
+      "parcels": 14
+    },
+    "708": {
+      "name": "SEYMOURVILLE (NORTHERN COMMUNITY)",
+      "parcels": 131
+    },
+    "783": {
+      "name": "CAMPERVILLE (NORTHERN COMMUNITY)",
+      "parcels": 294
+    },
+    "762": {
+      "name": "MANIGOTAGAN (NORTHERN COMMUNITY)",
+      "parcels": 327
+    },
+    "707": {
+      "name": "CROSS LAKE (NORTHERN COMMUNITY)",
+      "parcels": 194
+    },
+    "744": {
+      "name": "BERENS RIVER (NORTHERN COMMUNITY)",
+      "parcels": 125
+    },
+    "716": {
+      "name": "WABOWDEN (NORTHERN COMMUNITY)",
+      "parcels": 367
+    },
+    "765": {
+      "name": "PINE DOCK (NORTHERN COMMUNITY)",
+      "parcels": 88
+    },
+    "763": {
+      "name": "MATHESON ISLAND (NORTHERN COMMUNITY)",
+      "parcels": 210
+    },
+    "715": {
+      "name": "THICKET PORTAGE (NORTHERN COMMUNITY)",
+      "parcels": 166
+    },
+    "754": {
+      "name": "HOMEBROOK-PEONAN POINT (NORTHERN COMMUNITY)",
+      "parcels": 636
+    },
+    "738": {
+      "name": "HERB LAKE LANDING (NORTHERN SETTLEMENT)",
+      "parcels": 26
+    },
+    "746": {
+      "name": "BISSETT (NORTHERN COMMUNITY)",
+      "parcels": 326
+    },
+    "739": {
+      "name": "ILFORD (NORTHERN COMMUNITY)",
+      "parcels": 82
+    },
+    "766": {
+      "name": "PRINCESS HARBOUR (NORTHERN SETTLEMENT)",
+      "parcels": 30
+    },
+    "761": {
+      "name": "LOON STRAITS (NORTHERN SETTLEMENT)",
+      "parcels": 65
+    },
+    "710": {
+      "name": "NORWAY HOUSE (NORTHERN COMMUNITY)",
+      "parcels": 472
+    },
+    "760": {
+      "name": "LITTLE GRAND RAPIDS (NORTHERN SETTLEMENT)",
+      "parcels": 43
+    },
+    "714": {
+      "name": "SOUTH INDIAN LAKE (NORTHERN COMMUNITY)",
+      "parcels": 35
+    },
+    "706": {
+      "name": "NELSON HOUSE  (NORTHERN COMMUNITY)",
+      "parcels": 37
+    },
+    "727": {
+      "name": "CRANE RIVER (NORTHERN COMMUNITY)",
+      "parcels": 173
+    },
+    "734": {
+      "name": "BROCHET (NORTHERN COMMUNITY)",
+      "parcels": 93
+    },
+    "736": {
+      "name": "EASTERVILLE (NORTHERN COMMUNITY)",
+      "parcels": 93
+    },
+    "704": {
+      "name": "GODS LAKE NARROWS (NORTHERN COMMUNITY)",
+      "parcels": 74
+    },
+    "732": {
+      "name": "SPENCE LAKE (NORTHERN COMMUNITY)",
+      "parcels": 114
+    },
+    "733": {
+      "name": "WATERHEN (NORTHERN COMMUNITY)",
+      "parcels": 392
+    },
+    "731": {
+      "name": "SALT POINT (NORTHERN SETTLEMENT)",
+      "parcels": 16
+    },
+    "728": {
+      "name": "MALLARD (NORTHERN COMMUNITY)",
+      "parcels": 104
+    },
+    "730": {
+      "name": "ROCK RIDGE (NORTHERN COMMUNITY)",
+      "parcels": 35
+    },
+    "729": {
+      "name": "MEADOW PORTAGE (NORTHERN COMMUNITY)",
+      "parcels": 262
+    }
+  }
+}
