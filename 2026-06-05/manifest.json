@@ -1,13 +1,14 @@
 {
   "schema": 2,
   "snapshot_id": "2026-06-05",
-  "generated": "2026-06-06T17:02:54-0500",
+  "generated": "2026-06-06T17:57:40-0500",
   "generator": {
     "script": "build_historical_shards.R",
-    "commit": "e96be928",
+    "commit": "e23016cb",
     "crs": "EPSG:4326",
     "simplify_tolerance_deg": 3e-05,
-    "geometry_note": "Geometry simplified ~10 m for display — NOT survey-accurate. Resolve acreage/boundary evidence to the archived source-of-record (layers[].source_file / sha256)."
+    "simplify_min_area_m2": 10000,
+    "geometry_note": "Geometry simplified ~2-3 m for display — NOT survey-accurate. Resolve acreage/boundary evidence to the archived source-of-record (layers[].source_file / sha256)."
   },
   "disclaimer": "Historical zoning/dev-plan are pointers to likely by-law/designation context as of the source date; verify against municipal / planning-district records and registered plans/titles. Not a legal survey or legal determination.",
   "layers": {

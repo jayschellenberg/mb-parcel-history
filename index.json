@@ -1,7 +1,7 @@
 {
   "dataset": "mb-parcel-history",
   "schema": 2,
-  "generated": "2026-06-06T17:02:54-0500",
+  "generated": "2026-06-06T17:57:41-0500",
   "cdn": "https://cdn.jsdelivr.net/gh/jayschellenberg/mb-parcel-history@main",
   "snapshots": {
     "2026-06-05": {
