@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "muni_no": 449,
-  "snapshots": ["2025-02-12", "2026-06-05"],
-  "generated": "2026-06-06T12:50:27-0500",
+  "snapshots": ["2025-02-12", "2026-06-05", "2026-07-01"],
+  "generated": "2026-07-01T09:28:59-0500",
   "disclaimer": "Inferred from geometry overlap of public parcel snapshots — NOT authoritative lineage. Verify against registered plans of subdivision / consolidation and certificates of title.",
   "events": [
     {
@@ -76,6 +76,60 @@
         }
       ],
       "confidence": 1
+    },
+    {
+      "type": "replacement",
+      "from_snapshot": "2026-06-05",
+      "to_snapshot": "2026-07-01",
+      "from": [
+        {
+          "roll": "38000.000",
+          "area_ac": 0.14
+        }
+      ],
+      "to": [
+        {
+          "roll": "80000.000",
+          "area_ac": 0.29
+        }
+      ],
+      "confidence": 0.98
+    },
+    {
+      "type": "replacement",
+      "from_snapshot": "2026-06-05",
+      "to_snapshot": "2026-07-01",
+      "from": [
+        {
+          "roll": "96400.000",
+          "area_ac": 0.95
+        }
+      ],
+      "to": [
+        {
+          "roll": "104350.000",
+          "area_ac": 0.24
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "type": "replacement",
+      "from_snapshot": "2026-06-05",
+      "to_snapshot": "2026-07-01",
+      "from": [
+        {
+          "roll": "109900.000",
+          "area_ac": 0.23
+        }
+      ],
+      "to": [
+        {
+          "roll": "109950.000",
+          "area_ac": 0.11
+        }
+      ],
+      "confidence": 0.97
     }
   ],
   "by_roll": {
@@ -168,6 +222,75 @@
         {
           "snapshot": "2026-06-05",
           "roll": "418820.000"
+        }
+      ]
+    },
+    "80000.000": {
+      "snapshot": "2026-07-01",
+      "type": "replacement",
+      "confidence": 0.98,
+      "predecessors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "38000.000"
+        }
+      ]
+    },
+    "38000.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 0.98,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-07-01",
+          "roll": "80000.000"
+        }
+      ]
+    },
+    "104350.000": {
+      "snapshot": "2026-07-01",
+      "type": "replacement",
+      "confidence": 0.95,
+      "predecessors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "96400.000"
+        }
+      ]
+    },
+    "96400.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 0.95,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-07-01",
+          "roll": "104350.000"
+        }
+      ]
+    },
+    "109950.000": {
+      "snapshot": "2026-07-01",
+      "type": "replacement",
+      "confidence": 0.97,
+      "predecessors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "109900.000"
+        }
+      ]
+    },
+    "109900.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 0.97,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-07-01",
+          "roll": "109950.000"
         }
       ]
     }

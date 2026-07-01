@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generated": "2026-06-06T12:50:28-0500",
+  "generated": "2026-07-01T09:29:00-0500",
   "disclaimer": "Inferred from geometry overlap of public parcel snapshots — NOT authoritative lineage. Verify against registered plans of subdivision / consolidation and certificates of title.",
-  "snapshots": ["2025-02-12", "2026-06-05"],
+  "snapshots": ["2025-02-12", "2026-06-05", "2026-07-01"],
   "munis": {
     "101": {
       "events": 2
@@ -11,7 +11,7 @@
       "events": 6
     },
     "105": {
-      "events": 19
+      "events": 20
     },
     "107": {
       "events": 8
@@ -29,16 +29,16 @@
       "events": 9
     },
     "114": {
-      "events": 7
+      "events": 10
     },
     "115": {
       "events": 5
     },
     "116": {
-      "events": 13
+      "events": 17
     },
     "118": {
-      "events": 13
+      "events": 14
     },
     "119": {
       "events": 19
@@ -53,7 +53,7 @@
       "events": 6
     },
     "124": {
-      "events": 5
+      "events": 6
     },
     "126": {
       "events": 2
@@ -62,10 +62,10 @@
       "events": 17
     },
     "129": {
-      "events": 17
+      "events": 18
     },
     "132": {
-      "events": 7
+      "events": 8
     },
     "133": {
       "events": 16
@@ -77,10 +77,10 @@
       "events": 16
     },
     "139": {
-      "events": 12
+      "events": 13
     },
     "142": {
-      "events": 4
+      "events": 5
     },
     "143": {
       "events": 8
@@ -92,13 +92,13 @@
       "events": 6
     },
     "146": {
-      "events": 26
+      "events": 28
     },
     "147": {
       "events": 4
     },
     "149": {
-      "events": 8
+      "events": 9
     },
     "151": {
       "events": 9
@@ -110,58 +110,58 @@
       "events": 7
     },
     "154": {
-      "events": 9
+      "events": 10
     },
     "155": {
-      "events": 16
+      "events": 25
     },
     "156": {
-      "events": 14
+      "events": 16
     },
     "157": {
-      "events": 4
+      "events": 5
     },
     "159": {
-      "events": 4
+      "events": 5
     },
     "161": {
       "events": 10
     },
     "162": {
-      "events": 4
+      "events": 6
     },
     "163": {
-      "events": 18
+      "events": 21
     },
     "164": {
       "events": 7
     },
     "165": {
-      "events": 10
+      "events": 13
     },
     "167": {
-      "events": 4
+      "events": 5
     },
     "168": {
-      "events": 22
+      "events": 24
     },
     "169": {
       "events": 7
     },
     "170": {
-      "events": 9
+      "events": 11
     },
     "172": {
       "events": 15
     },
     "174": {
-      "events": 23
+      "events": 24
     },
     "175": {
-      "events": 13
+      "events": 18
     },
     "176": {
-      "events": 27
+      "events": 32
     },
     "177": {
       "events": 1
@@ -170,7 +170,7 @@
       "events": 9
     },
     "181": {
-      "events": 36
+      "events": 37
     },
     "182": {
       "events": 14
@@ -185,19 +185,19 @@
       "events": 4
     },
     "187": {
-      "events": 6
-    },
-    "188": {
       "events": 7
     },
+    "188": {
+      "events": 9
+    },
     "189": {
-      "events": 28
+      "events": 30
     },
     "190": {
       "events": 15
     },
     "192": {
-      "events": 12
+      "events": 13
     },
     "193": {
       "events": 16
@@ -209,7 +209,7 @@
       "events": 13
     },
     "196": {
-      "events": 10
+      "events": 13
     },
     "197": {
       "events": 5
@@ -218,31 +218,31 @@
       "events": 1
     },
     "199": {
-      "events": 10
+      "events": 11
     },
     "200": {
-      "events": 7
+      "events": 8
     },
     "201": {
-      "events": 25
+      "events": 28
     },
     "202": {
-      "events": 6
+      "events": 7
     },
     "203": {
       "events": 5
     },
     "205": {
-      "events": 10
+      "events": 12
     },
     "206": {
       "events": 15
     },
     "208": {
-      "events": 10
+      "events": 11
     },
     "300": {
-      "events": 3
+      "events": 4
     },
     "311": {
       "events": 2
@@ -251,7 +251,7 @@
       "events": 12
     },
     "331": {
-      "events": 2
+      "events": 4
     },
     "340": {
       "events": 3
@@ -260,7 +260,7 @@
       "events": 11
     },
     "353": {
-      "events": 9
+      "events": 13
     },
     "357": {
       "events": 1
@@ -269,7 +269,7 @@
       "events": 3
     },
     "363": {
-      "events": 2
+      "events": 4
     },
     "400": {
       "events": 9
@@ -281,7 +281,7 @@
       "events": 12
     },
     "407": {
-      "events": 2
+      "events": 4
     },
     "409": {
       "events": 3
@@ -302,7 +302,7 @@
       "events": 2
     },
     "437": {
-      "events": 3
+      "events": 4
     },
     "443": {
       "events": 4
@@ -317,7 +317,7 @@
       "events": 3
     },
     "449": {
-      "events": 4
+      "events": 7
     },
     "451": {
       "events": 41
@@ -332,7 +332,7 @@
       "events": 5
     },
     "461": {
-      "events": 2
+      "events": 4
     },
     "463": {
       "events": 21
@@ -341,7 +341,7 @@
       "events": 4
     },
     "500": {
-      "events": 42
+      "events": 56
     },
     "540": {
       "events": 18
@@ -350,13 +350,13 @@
       "events": 7
     },
     "600": {
-      "events": 10
+      "events": 12
     },
     "601": {
-      "events": 15
+      "events": 16
     },
     "602": {
-      "events": 12
+      "events": 13
     },
     "603": {
       "events": 1
@@ -368,13 +368,13 @@
       "events": 11
     },
     "606": {
-      "events": 9
+      "events": 10
     },
     "608": {
       "events": 2
     },
     "609": {
-      "events": 5
+      "events": 9
     },
     "610": {
       "events": 13

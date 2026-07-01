@@ -1,10 +1,10 @@
 {
   "schema": 2,
   "snapshot_id": "2026-06-05",
-  "generated": "2026-06-06T17:57:40-0500",
+  "generated": "2026-07-01T09:23:15-0500",
   "generator": {
     "script": "build_historical_shards.R",
-    "commit": "e23016cb",
+    "commit": "e5aed9c",
     "crs": "EPSG:4326",
     "simplify_tolerance_deg": 3e-05,
     "simplify_min_area_m2": 10000,

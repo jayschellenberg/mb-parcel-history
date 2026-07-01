@@ -1,9 +1,24 @@
 {
   "dataset": "mb-parcel-history",
   "schema": 2,
-  "generated": "2026-06-06T17:57:41-0500",
-  "cdn": "https://cdn.jsdelivr.net/gh/jayschellenberg/mb-parcel-history@main",
+  "generated": "2026-07-01T09:24:58-0500",
+  "cdn": "https://cdn.jsdelivr.net/gh/jayschellenberg/mb-parcel-history",
   "snapshots": {
+    "2026-07-01": {
+      "snapshot_id": "2026-07-01",
+      "layers": {
+        "parcels": {
+          "source_date": "2026-07-01"
+        },
+        "zoning": {
+          "source_date": "2026-07-01"
+        },
+        "devplan": {
+          "source_date": "2026-07-01"
+        }
+      },
+      "muni_count": 186
+    },
     "2026-06-05": {
       "snapshot_id": "2026-06-05",
       "layers": {

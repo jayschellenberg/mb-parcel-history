@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "muni_no": 159,
-  "snapshots": ["2025-02-12", "2026-06-05"],
-  "generated": "2026-06-06T12:50:26-0500",
+  "snapshots": ["2025-02-12", "2026-06-05", "2026-07-01"],
+  "generated": "2026-07-01T09:28:59-0500",
   "disclaimer": "Inferred from geometry overlap of public parcel snapshots — NOT authoritative lineage. Verify against registered plans of subdivision / consolidation and certificates of title.",
   "events": [
     {
@@ -73,6 +73,24 @@
         {
           "roll": "180550.000",
           "area_ac": 131.68
+        }
+      ],
+      "confidence": 1
+    },
+    {
+      "type": "replacement",
+      "from_snapshot": "2026-06-05",
+      "to_snapshot": "2026-07-01",
+      "from": [
+        {
+          "roll": "172800.000",
+          "area_ac": 164.33
+        }
+      ],
+      "to": [
+        {
+          "roll": "172850.000",
+          "area_ac": 16.69
         }
       ],
       "confidence": 1
@@ -168,6 +186,29 @@
         {
           "snapshot": "2026-06-05",
           "roll": "180550.000"
+        }
+      ]
+    },
+    "172850.000": {
+      "snapshot": "2026-07-01",
+      "type": "replacement",
+      "confidence": 1,
+      "predecessors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "172800.000"
+        }
+      ]
+    },
+    "172800.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 1,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-07-01",
+          "roll": "172850.000"
         }
       ]
     }

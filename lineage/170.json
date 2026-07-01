@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "muni_no": 170,
-  "snapshots": ["2025-02-12", "2026-06-05"],
-  "generated": "2026-06-06T12:50:27-0500",
+  "snapshots": ["2025-02-12", "2026-06-05", "2026-07-01"],
+  "generated": "2026-07-01T09:28:59-0500",
   "disclaimer": "Inferred from geometry overlap of public parcel snapshots — NOT authoritative lineage. Verify against registered plans of subdivision / consolidation and certificates of title.",
   "events": [
     {
@@ -191,6 +191,42 @@
         {
           "roll": "168050.000",
           "area_ac": 81.92
+        }
+      ],
+      "confidence": 1
+    },
+    {
+      "type": "replacement",
+      "from_snapshot": "2026-06-05",
+      "to_snapshot": "2026-07-01",
+      "from": [
+        {
+          "roll": "75000.000",
+          "area_ac": 183.49
+        }
+      ],
+      "to": [
+        {
+          "roll": "74950.000",
+          "area_ac": 10.74
+        }
+      ],
+      "confidence": 0.63
+    },
+    {
+      "type": "replacement",
+      "from_snapshot": "2026-06-05",
+      "to_snapshot": "2026-07-01",
+      "from": [
+        {
+          "roll": "106100.000",
+          "area_ac": 161.1
+        }
+      ],
+      "to": [
+        {
+          "roll": "106150.000",
+          "area_ac": 149.1
         }
       ],
       "confidence": 1
@@ -512,6 +548,52 @@
         {
           "snapshot": "2026-06-05",
           "roll": "168050.000"
+        }
+      ]
+    },
+    "74950.000": {
+      "snapshot": "2026-07-01",
+      "type": "replacement",
+      "confidence": 0.63,
+      "predecessors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "75000.000"
+        }
+      ]
+    },
+    "75000.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 0.63,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-07-01",
+          "roll": "74950.000"
+        }
+      ]
+    },
+    "106150.000": {
+      "snapshot": "2026-07-01",
+      "type": "replacement",
+      "confidence": 1,
+      "predecessors": [
+        {
+          "snapshot": "2026-06-05",
+          "roll": "106100.000"
+        }
+      ]
+    },
+    "106100.000": {
+      "snapshot": "2026-06-05",
+      "type": "replacement",
+      "confidence": 1,
+      "predecessors": null,
+      "successors": [
+        {
+          "snapshot": "2026-07-01",
+          "roll": "106150.000"
         }
       ]
     }
