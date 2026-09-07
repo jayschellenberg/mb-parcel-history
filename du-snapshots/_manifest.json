@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-09-07T15:11:43Z",
+  "source": "parcels.parquet",
+  "note": "State at any date = baseline plus every delta up to it, applied in filename-date order. A roll absent from the state has du = 0. Nothing before the baseline date is reconstructible: MAO publishes no DU history.",
+  "files": [
+    {
+      "file": "baseline_2026-09-07.csv",
+      "rows": 207259
+    }
+  ]
+}
