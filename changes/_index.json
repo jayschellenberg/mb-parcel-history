@@ -1,0 +1,635 @@
+{
+  "schema": 1,
+  "generated": "2026-10-04T12:30:24-0500",
+  "first_snapshot": "2025-02-12",
+  "last_snapshot": "2026-10-04",
+  "snapshots": ["2025-02-12", "2026-07-01", "2026-08-04", "2026-08-11", "2026-09-06", "2026-09-13", "2026-09-20", "2026-09-27", "2026-10-04"],
+  "quarantined": ["2026-05-06"],
+  "disclaimer": "Built from snapshots of the province's ROLL_ENTRY layer, which publishes no change dates: each change is known only to fall between two snapshot dates. Lineage (from / to) is inferred from overlapping outlines. Verify against registered plans and titles.",
+  "munis": {
+    "101": {
+      "rolls": 15,
+      "outlines": 14
+    },
+    "102": {
+      "rolls": 24,
+      "outlines": 19
+    },
+    "105": {
+      "rolls": 230,
+      "outlines": 189
+    },
+    "107": {
+      "rolls": 50,
+      "outlines": 40
+    },
+    "109": {
+      "rolls": 3,
+      "outlines": 2
+    },
+    "110": {
+      "rolls": 130,
+      "outlines": 67
+    },
+    "111": {
+      "rolls": 42,
+      "outlines": 36
+    },
+    "112": {
+      "rolls": 27,
+      "outlines": 14
+    },
+    "114": {
+      "rolls": 126,
+      "outlines": 116
+    },
+    "115": {
+      "rolls": 13,
+      "outlines": 10
+    },
+    "116": {
+      "rolls": 43,
+      "outlines": 30
+    },
+    "118": {
+      "rolls": 152,
+      "outlines": 136
+    },
+    "119": {
+      "rolls": 82,
+      "outlines": 49
+    },
+    "120": {
+      "rolls": 76,
+      "outlines": 57
+    },
+    "121": {
+      "rolls": 206,
+      "outlines": 183
+    },
+    "122": {
+      "rolls": 13,
+      "outlines": 9
+    },
+    "124": {
+      "rolls": 46,
+      "outlines": 18
+    },
+    "126": {
+      "rolls": 9,
+      "outlines": 7
+    },
+    "127": {
+      "rolls": 70,
+      "outlines": 51
+    },
+    "129": {
+      "rolls": 187,
+      "outlines": 150
+    },
+    "132": {
+      "rolls": 24,
+      "outlines": 16
+    },
+    "133": {
+      "rolls": 46,
+      "outlines": 33
+    },
+    "135": {
+      "rolls": 313,
+      "outlines": 85
+    },
+    "138": {
+      "rolls": 107,
+      "outlines": 56
+    },
+    "139": {
+      "rolls": 1953,
+      "outlines": 1933
+    },
+    "142": {
+      "rolls": 18,
+      "outlines": 11
+    },
+    "143": {
+      "rolls": 117,
+      "outlines": 108
+    },
+    "144": {
+      "rolls": 56,
+      "outlines": 44
+    },
+    "145": {
+      "rolls": 53,
+      "outlines": 15
+    },
+    "146": {
+      "rolls": 596,
+      "outlines": 501
+    },
+    "147": {
+      "rolls": 19,
+      "outlines": 13
+    },
+    "149": {
+      "rolls": 30,
+      "outlines": 20
+    },
+    "151": {
+      "rolls": 35,
+      "outlines": 25
+    },
+    "152": {
+      "rolls": 87,
+      "outlines": 61
+    },
+    "153": {
+      "rolls": 33,
+      "outlines": 29
+    },
+    "154": {
+      "rolls": 57,
+      "outlines": 33
+    },
+    "155": {
+      "rolls": 234,
+      "outlines": 205
+    },
+    "156": {
+      "rolls": 114,
+      "outlines": 55
+    },
+    "157": {
+      "rolls": 38,
+      "outlines": 30
+    },
+    "159": {
+      "rolls": 20,
+      "outlines": 14
+    },
+    "161": {
+      "rolls": 31,
+      "outlines": 23
+    },
+    "162": {
+      "rolls": 18,
+      "outlines": 13
+    },
+    "163": {
+      "rolls": 523,
+      "outlines": 499
+    },
+    "164": {
+      "rolls": 63,
+      "outlines": 44
+    },
+    "165": {
+      "rolls": 376,
+      "outlines": 62
+    },
+    "167": {
+      "rolls": 61,
+      "outlines": 60
+    },
+    "168": {
+      "rolls": 188,
+      "outlines": 155
+    },
+    "169": {
+      "rolls": 24,
+      "outlines": 13
+    },
+    "170": {
+      "rolls": 186,
+      "outlines": 174
+    },
+    "172": {
+      "rolls": 105,
+      "outlines": 63
+    },
+    "174": {
+      "rolls": 134,
+      "outlines": 95
+    },
+    "175": {
+      "rolls": 101,
+      "outlines": 70
+    },
+    "176": {
+      "rolls": 435,
+      "outlines": 344
+    },
+    "177": {
+      "rolls": 2,
+      "outlines": 1
+    },
+    "178": {
+      "rolls": 37,
+      "outlines": 28
+    },
+    "181": {
+      "rolls": 222,
+      "outlines": 201
+    },
+    "182": {
+      "rolls": 85,
+      "outlines": 72
+    },
+    "183": {
+      "rolls": 28,
+      "outlines": 17
+    },
+    "184": {
+      "rolls": 101,
+      "outlines": 171
+    },
+    "185": {
+      "rolls": 16,
+      "outlines": 12
+    },
+    "187": {
+      "rolls": 36,
+      "outlines": 24
+    },
+    "188": {
+      "rolls": 35,
+      "outlines": 20
+    },
+    "189": {
+      "rolls": 222,
+      "outlines": 105
+    },
+    "190": {
+      "rolls": 2762,
+      "outlines": 2717
+    },
+    "192": {
+      "rolls": 225,
+      "outlines": 199
+    },
+    "193": {
+      "rolls": 56,
+      "outlines": 40
+    },
+    "194": {
+      "rolls": 127,
+      "outlines": 40
+    },
+    "195": {
+      "rolls": 27,
+      "outlines": 20
+    },
+    "196": {
+      "rolls": 56,
+      "outlines": 46
+    },
+    "197": {
+      "rolls": 12,
+      "outlines": 5
+    },
+    "198": {
+      "rolls": 7,
+      "outlines": 7
+    },
+    "199": {
+      "rolls": 814,
+      "outlines": 778
+    },
+    "200": {
+      "rolls": 71,
+      "outlines": 64
+    },
+    "201": {
+      "rolls": 269,
+      "outlines": 100
+    },
+    "202": {
+      "rolls": 39,
+      "outlines": 20
+    },
+    "203": {
+      "rolls": 689,
+      "outlines": 732
+    },
+    "205": {
+      "rolls": 39,
+      "outlines": 32
+    },
+    "206": {
+      "rolls": 66,
+      "outlines": 47
+    },
+    "208": {
+      "rolls": 137,
+      "outlines": 21
+    },
+    "300": {
+      "rolls": 43,
+      "outlines": 43
+    },
+    "311": {
+      "rolls": 6,
+      "outlines": 4
+    },
+    "323": {
+      "rolls": 45,
+      "outlines": 33
+    },
+    "331": {
+      "rolls": 25,
+      "outlines": 18
+    },
+    "333": {
+      "rolls": 1,
+      "outlines": 1
+    },
+    "340": {
+      "rolls": 114,
+      "outlines": 21
+    },
+    "347": {
+      "rolls": 3,
+      "outlines": 3
+    },
+    "351": {
+      "rolls": 60,
+      "outlines": 33
+    },
+    "353": {
+      "rolls": 34,
+      "outlines": 30
+    },
+    "357": {
+      "rolls": 6,
+      "outlines": 4
+    },
+    "359": {
+      "rolls": 12,
+      "outlines": 10
+    },
+    "363": {
+      "rolls": 12,
+      "outlines": 7
+    },
+    "400": {
+      "rolls": 47,
+      "outlines": 17
+    },
+    "401": {
+      "rolls": 9,
+      "outlines": 6
+    },
+    "403": {
+      "rolls": 63,
+      "outlines": 51
+    },
+    "407": {
+      "rolls": 9,
+      "outlines": 5
+    },
+    "409": {
+      "rolls": 52,
+      "outlines": 7
+    },
+    "411": {
+      "rolls": 14,
+      "outlines": 12
+    },
+    "429": {
+      "rolls": 4,
+      "outlines": 4
+    },
+    "431": {
+      "rolls": 44,
+      "outlines": 17
+    },
+    "433": {
+      "rolls": 2087,
+      "outlines": 2008
+    },
+    "435": {
+      "rolls": 6,
+      "outlines": 4
+    },
+    "437": {
+      "rolls": 31,
+      "outlines": 19
+    },
+    "443": {
+      "rolls": 86,
+      "outlines": 59
+    },
+    "445": {
+      "rolls": 55,
+      "outlines": 48
+    },
+    "447": {
+      "rolls": 34,
+      "outlines": 25
+    },
+    "448": {
+      "rolls": 19,
+      "outlines": 11
+    },
+    "449": {
+      "rolls": 32,
+      "outlines": 29
+    },
+    "451": {
+      "rolls": 271,
+      "outlines": 65
+    },
+    "453": {
+      "rolls": 188,
+      "outlines": 188
+    },
+    "455": {
+      "rolls": 24,
+      "outlines": 17
+    },
+    "457": {
+      "rolls": 24,
+      "outlines": 18
+    },
+    "461": {
+      "rolls": 1631,
+      "outlines": 1631
+    },
+    "463": {
+      "rolls": 5059,
+      "outlines": 4936
+    },
+    "465": {
+      "rolls": 59,
+      "outlines": 14
+    },
+    "500": {
+      "rolls": 1034,
+      "outlines": 827
+    },
+    "540": {
+      "rolls": 60,
+      "outlines": 54
+    },
+    "550": {
+      "rolls": 49,
+      "outlines": 36
+    },
+    "560": {
+      "rolls": 3,
+      "outlines": 2
+    },
+    "600": {
+      "rolls": 1266,
+      "outlines": 1259
+    },
+    "601": {
+      "rolls": 399,
+      "outlines": 383
+    },
+    "602": {
+      "rolls": 35,
+      "outlines": 24
+    },
+    "603": {
+      "rolls": 18,
+      "outlines": 11
+    },
+    "604": {
+      "rolls": 87,
+      "outlines": 77
+    },
+    "605": {
+      "rolls": 28,
+      "outlines": 18
+    },
+    "606": {
+      "rolls": 72,
+      "outlines": 49
+    },
+    "608": {
+      "rolls": 15,
+      "outlines": 5
+    },
+    "609": {
+      "rolls": 48,
+      "outlines": 38
+    },
+    "610": {
+      "rolls": 183,
+      "outlines": 50
+    },
+    "611": {
+      "rolls": 49,
+      "outlines": 30
+    },
+    "612": {
+      "rolls": 65,
+      "outlines": 38
+    },
+    "614": {
+      "rolls": 100,
+      "outlines": 100
+    },
+    "616": {
+      "rolls": 1116,
+      "outlines": 1117
+    },
+    "617": {
+      "rolls": 512,
+      "outlines": 507
+    },
+    "619": {
+      "rolls": 11,
+      "outlines": 5
+    },
+    "700": {
+      "rolls": 3,
+      "outlines": 3
+    },
+    "701": {
+      "rolls": 2,
+      "outlines": 1
+    },
+    "702": {
+      "rolls": 16,
+      "outlines": 3
+    },
+    "703": {
+      "rolls": 5,
+      "outlines": 3
+    },
+    "704": {
+      "rolls": 1,
+      "outlines": 1
+    },
+    "710": {
+      "rolls": 3,
+      "outlines": 1
+    },
+    "712": {
+      "rolls": 1,
+      "outlines": 1
+    },
+    "727": {
+      "rolls": 10,
+      "outlines": 6
+    },
+    "729": {
+      "rolls": 2,
+      "outlines": 2
+    },
+    "731": {
+      "rolls": 3,
+      "outlines": 1
+    },
+    "732": {
+      "rolls": 2,
+      "outlines": 1
+    },
+    "733": {
+      "rolls": 16,
+      "outlines": 15
+    },
+    "738": {
+      "rolls": 25,
+      "outlines": 24
+    },
+    "744": {
+      "rolls": 2,
+      "outlines": 2
+    },
+    "746": {
+      "rolls": 2,
+      "outlines": 2
+    },
+    "755": {
+      "rolls": 113,
+      "outlines": 112
+    },
+    "760": {
+      "rolls": 2,
+      "outlines": 1
+    },
+    "761": {
+      "rolls": 4,
+      "outlines": 4
+    },
+    "762": {
+      "rolls": 3,
+      "outlines": 3
+    },
+    "763": {
+      "rolls": 1,
+      "outlines": 1
+    },
+    "783": {
+      "rolls": 6,
+      "outlines": 5
+    },
+    "786": {
+      "rolls": 1,
+      "outlines": 0
+    }
+  }
+}
