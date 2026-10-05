@@ -31,6 +31,26 @@ Designations). All data is Province of Manitoba open data.
 - **`manifest.json.layers`** records each layer's own snapshot date — the
   three layers are downloaded on different dates.
 
+### `changes/` — weekly parcel change history (since 2026-10)
+
+```
+changes/
+  _index.json              # first/last snapshot, snapshot list, quarantined dates, munis {name, rolls, outlines}
+  <muni_no>.json           # rolls: { "<Roll_No_Txt>": [version, ...] }, outlines: superseded outlines (GeoJSON)
+```
+
+Every outline each roll has had across the weekly RollEntry downloads, with
+change dates as **windows** of snapshot dates (`onb` / `fs` / `ls` / `cna`),
+never a single change date — the province publishes none. Written by
+`r/build_change_shards.R` and pushed weekly (Sundays, via mao-assembly's
+refresh) by `publish-history-changes.ps1` in the app repo, which commits
+**only** `changes/` and re-pins the app. Keep this working copy on `main`.
+Per-muni files carry no timestamps, so an unchanged muni produces no diff.
+Field reference: `web/src/lib/parcelHistory.js` in the app repo.
+
+`du-snapshots/` holds the dwelling-unit baseline and monthly deltas
+(`snapshot_dwelling_units.R`).
+
 ## Access (jsDelivr)
 
 Served pinned to an **immutable commit SHA** — never `@main` (branch HEADs
