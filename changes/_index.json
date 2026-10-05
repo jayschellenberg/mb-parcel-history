@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T12:30:24-0500",
+  "generated": "2026-10-04T21:09:45-0500",
   "first_snapshot": "2025-02-12",
   "last_snapshot": "2026-10-04",
   "snapshots": ["2025-02-12", "2026-07-01", "2026-08-04", "2026-08-11", "2026-09-06", "2026-09-13", "2026-09-20", "2026-09-27", "2026-10-04"],
@@ -8,626 +8,782 @@
   "disclaimer": "Built from snapshots of the province's ROLL_ENTRY layer, which publishes no change dates: each change is known only to fall between two snapshot dates. Lineage (from / to) is inferred from overlapping outlines. Verify against registered plans and titles.",
   "munis": {
     "101": {
+      "name": "ELLICE-ARCHIE (RM)",
       "rolls": 15,
       "outlines": 14
     },
     "102": {
+      "name": "ARGYLE (RM)",
       "rolls": 24,
       "outlines": 19
     },
     "105": {
+      "name": "BIFROST-RIVERTON (MUNICIPALITY)",
       "rolls": 230,
       "outlines": 189
     },
     "107": {
+      "name": "OAKVIEW (RM)",
       "rolls": 50,
       "outlines": 40
     },
     "109": {
+      "name": "BRENDA-WASKADA (MUNICIPALITY)",
       "rolls": 3,
       "outlines": 2
     },
     "110": {
+      "name": "BROKENHEAD (RM)",
       "rolls": 130,
       "outlines": 67
     },
     "111": {
+      "name": "GRASSLAND (MUNICIPALITY)",
       "rolls": 42,
       "outlines": 36
     },
     "112": {
+      "name": "CARTIER (RM)",
       "rolls": 27,
       "outlines": 14
     },
     "114": {
+      "name": "CLANWILLIAM-ERICKSON (MUNICIPALITY)",
       "rolls": 126,
       "outlines": 116
     },
     "115": {
+      "name": "COLDWELL (RM)",
       "rolls": 13,
       "outlines": 10
     },
     "116": {
+      "name": "CORNWALLIS (RM)",
       "rolls": 43,
       "outlines": 30
     },
     "118": {
+      "name": "DAUPHIN (RM)",
       "rolls": 152,
       "outlines": 136
     },
     "119": {
+      "name": "DE SALABERRY (RM)",
       "rolls": 82,
       "outlines": 49
     },
     "120": {
+      "name": "DUFFERIN (RM)",
       "rolls": 76,
       "outlines": 57
     },
     "121": {
+      "name": "EAST ST PAUL (RM)",
       "rolls": 206,
       "outlines": 183
     },
     "122": {
+      "name": "TWO BORDERS (MUNICIPALITY)",
       "rolls": 13,
       "outlines": 9
     },
     "124": {
+      "name": "ELTON (RM)",
       "rolls": 46,
       "outlines": 18
     },
     "126": {
+      "name": "ETHELBERT (MUNICIPALITY)",
       "rolls": 9,
       "outlines": 7
     },
     "127": {
+      "name": "EMERSON-FRANKLIN (MUNICIPALITY)",
       "rolls": 70,
       "outlines": 51
     },
     "129": {
+      "name": "GIMLI (RM)",
       "rolls": 187,
       "outlines": 150
     },
     "132": {
+      "name": "GRANDVIEW  (MUNICIPALITY)",
       "rolls": 24,
       "outlines": 16
     },
     "133": {
+      "name": "GREY (RM)",
       "rolls": 46,
       "outlines": 33
     },
     "135": {
+      "name": "HANOVER (RM)",
       "rolls": 313,
       "outlines": 85
     },
     "138": {
+      "name": "LA BROQUERIE (RM)",
       "rolls": 107,
       "outlines": 56
     },
     "139": {
+      "name": "LAC DU BONNET (RM)",
       "rolls": 1953,
       "outlines": 1933
     },
     "142": {
+      "name": "GLENELLA-LANSDOWNE (MUNICIPALITY)",
       "rolls": 18,
       "outlines": 11
     },
     "143": {
+      "name": "LAKESHORE (RM)",
       "rolls": 117,
       "outlines": 108
     },
     "144": {
+      "name": "LORNE (MUNICIPALITY)",
       "rolls": 56,
       "outlines": 44
     },
     "145": {
+      "name": "LOUISE (MUNICIPALITY)",
       "rolls": 53,
       "outlines": 15
     },
     "146": {
+      "name": "MACDONALD (RM)",
       "rolls": 596,
       "outlines": 501
     },
     "147": {
+      "name": "MCCREARY (MUNICIPALITY)",
       "rolls": 19,
       "outlines": 13
     },
     "149": {
+      "name": "MINITONAS-BOWSMAN (MUNICIPALITY)",
       "rolls": 30,
       "outlines": 20
     },
     "151": {
+      "name": "MONTCALM (RM)",
       "rolls": 35,
       "outlines": 25
     },
     "152": {
+      "name": "MORRIS (RM)",
       "rolls": 87,
       "outlines": 61
     },
     "153": {
+      "name": "BOISSEVAIN-MORTON (MUNICIPALITY)",
       "rolls": 33,
       "outlines": 29
     },
     "154": {
+      "name": "MOSSEY RIVER (MUNICIPALITY)",
       "rolls": 57,
       "outlines": 33
     },
     "155": {
+      "name": "NORTH CYPRESS-LANGFORD (MUNICIPALITY)",
       "rolls": 234,
       "outlines": 205
     },
     "156": {
+      "name": "NORTH NORFOLK (MUNICIPALITY)",
       "rolls": 114,
       "outlines": 55
     },
     "157": {
+      "name": "OAKLAND-WAWANESA (MUNICIPALITY)",
       "rolls": 38,
       "outlines": 30
     },
     "159": {
+      "name": "MINTO-ODANAH (RM)",
       "rolls": 20,
       "outlines": 14
     },
     "161": {
+      "name": "PEMBINA (MUNICIPALITY)",
       "rolls": 31,
       "outlines": 23
     },
     "162": {
+      "name": "PIPESTONE (RM)",
       "rolls": 18,
       "outlines": 13
     },
     "163": {
+      "name": "PORTAGE LA PRAIRIE (RM)",
       "rolls": 523,
       "outlines": 499
     },
     "164": {
+      "name": "RHINELAND (MUNICIPALITY)",
       "rolls": 63,
       "outlines": 44
     },
     "165": {
+      "name": "RITCHOT (RM)",
       "rolls": 376,
       "outlines": 62
     },
     "167": {
+      "name": "CARTWRIGHT-ROBLIN  (MUNICIPALITY)",
       "rolls": 61,
       "outlines": 60
     },
     "168": {
+      "name": "ROCKWOOD (RM)",
       "rolls": 188,
       "outlines": 155
     },
     "169": {
+      "name": "ROLAND (RM)",
       "rolls": 24,
       "outlines": 13
     },
     "170": {
+      "name": "ROSEDALE (RM)",
       "rolls": 186,
       "outlines": 174
     },
     "172": {
+      "name": "ROSSER (RM)",
       "rolls": 105,
       "outlines": 63
     },
     "174": {
+      "name": "ST ANDREWS (RM)",
       "rolls": 134,
       "outlines": 95
     },
     "175": {
+      "name": "STE ANNE (RM)",
       "rolls": 101,
       "outlines": 70
     },
     "176": {
+      "name": "ST CLEMENTS (RM)",
       "rolls": 435,
       "outlines": 344
     },
     "177": {
+      "name": "ST FRANCOIS XAVIER (RM)",
       "rolls": 2,
       "outlines": 1
     },
     "178": {
+      "name": "ST LAURENT (RM)",
       "rolls": 37,
       "outlines": 28
     },
     "181": {
+      "name": "RIDING MOUNTAIN WEST (RM)",
       "rolls": 222,
       "outlines": 201
     },
     "182": {
+      "name": "ROBLIN (MUNICIPALITY)",
       "rolls": 85,
       "outlines": 72
     },
     "183": {
+      "name": "YELLOWHEAD (MUNICIPALITY)",
       "rolls": 28,
       "outlines": 17
     },
     "184": {
+      "name": "SIFTON (RM)",
       "rolls": 101,
       "outlines": 171
     },
     "185": {
+      "name": "WEST INTERLAKE (RM)",
       "rolls": 16,
       "outlines": 12
     },
     "187": {
+      "name": "GLENBORO-SOUTH CYPRESS (MUNICIPALITY)",
       "rolls": 36,
       "outlines": 24
     },
     "188": {
+      "name": "NORFOLK TREHERNE (MUNICIPALITY)",
       "rolls": 35,
       "outlines": 20
     },
     "189": {
+      "name": "SPRINGFIELD (RM)",
       "rolls": 222,
       "outlines": 105
     },
     "190": {
+      "name": "STANLEY (RM)",
       "rolls": 2762,
       "outlines": 2717
     },
     "192": {
+      "name": "PRAIRIE LAKES (RM)",
       "rolls": 225,
       "outlines": 199
     },
     "193": {
+      "name": "SWAN VALLEY WEST (MUNICIPALITY)",
       "rolls": 56,
       "outlines": 40
     },
     "194": {
+      "name": "TACHE (RM)",
       "rolls": 127,
       "outlines": 40
     },
     "195": {
+      "name": "THOMPSON (RM)",
       "rolls": 27,
       "outlines": 20
     },
     "196": {
+      "name": "KILLARNEY TURTLE MOUNTAIN (MUNICIPALITY)",
       "rolls": 56,
       "outlines": 46
     },
     "197": {
+      "name": "VICTORIA (RM)",
       "rolls": 12,
       "outlines": 5
     },
     "198": {
+      "name": "VICTORIA BEACH (RM)",
       "rolls": 7,
       "outlines": 7
     },
     "199": {
+      "name": "WALLACE-WOODWORTH (RM)",
       "rolls": 814,
       "outlines": 778
     },
     "200": {
+      "name": "WESTLAKE-GLADSTONE (MUNICIPALITY)",
       "rolls": 71,
       "outlines": 64
     },
     "201": {
+      "name": "WEST ST PAUL (RM)",
       "rolls": 269,
       "outlines": 100
     },
     "202": {
+      "name": "WHITEHEAD (RM)",
       "rolls": 39,
       "outlines": 20
     },
     "203": {
+      "name": "WHITEMOUTH (RM)",
       "rolls": 689,
       "outlines": 732
     },
     "205": {
+      "name": "DELORAINE-WINCHESTER (MUNICIPALITY)",
       "rolls": 39,
       "outlines": 32
     },
     "206": {
+      "name": "WOODLANDS (RM)",
       "rolls": 66,
       "outlines": 47
     },
     "208": {
+      "name": "HEADINGLEY (RM)",
       "rolls": 137,
       "outlines": 21
     },
     "300": {
+      "name": "ARBORG (TOWN)",
       "rolls": 43,
       "outlines": 43
     },
     "311": {
+      "name": "DUNNOTTAR (VILLAGE)",
       "rolls": 6,
       "outlines": 4
     },
     "323": {
+      "name": "GILBERT PLAINS  (MUNICIPALITY)",
       "rolls": 45,
       "outlines": 33
     },
     "331": {
+      "name": "HAMIOTA  (MUNICIPALITY)",
       "rolls": 25,
       "outlines": 18
     },
     "333": {
+      "name": "LAC DU BONNET (TOWN)",
       "rolls": 1,
       "outlines": 1
     },
     "340": {
+      "name": "NIVERVILLE (TOWN)",
       "rolls": 114,
       "outlines": 21
     },
     "347": {
+      "name": "POWERVIEW-PINE FALLS (TOWN)",
       "rolls": 3,
       "outlines": 3
     },
     "351": {
+      "name": "STE ANNE (TOWN)",
       "rolls": 60,
       "outlines": 33
     },
     "353": {
+      "name": "ROSSBURN  (MUNICIPALITY)",
       "rolls": 34,
       "outlines": 30
     },
     "357": {
+      "name": "ST PIERRE-JOLYS (VILLAGE)",
       "rolls": 6,
       "outlines": 4
     },
     "359": {
+      "name": "STE. ROSE (MUNICIPALITY)",
       "rolls": 12,
       "outlines": 10
     },
     "363": {
+      "name": "TEULON (TOWN)",
       "rolls": 12,
       "outlines": 7
     },
     "400": {
+      "name": "ALTONA (TOWN)",
       "rolls": 47,
       "outlines": 17
     },
     "401": {
+      "name": "BEAUSEJOUR (TOWN)",
       "rolls": 9,
       "outlines": 6
     },
     "403": {
+      "name": "PRAIRIE VIEW  (MUNICIPALITY)",
       "rolls": 63,
       "outlines": 51
     },
     "407": {
+      "name": "CARBERRY (TOWN)",
       "rolls": 9,
       "outlines": 5
     },
     "409": {
+      "name": "CARMAN (TOWN)",
       "rolls": 52,
       "outlines": 7
     },
     "411": {
+      "name": "DAUPHIN (CITY)",
       "rolls": 14,
       "outlines": 12
     },
     "429": {
+      "name": "MELITA (TOWN)",
       "rolls": 4,
       "outlines": 4
     },
     "431": {
+      "name": "MINNEDOSA (TOWN)",
       "rolls": 44,
       "outlines": 17
     },
     "433": {
+      "name": "MORDEN (CITY)",
       "rolls": 2087,
       "outlines": 2008
     },
     "435": {
+      "name": "MORRIS (TOWN)",
       "rolls": 6,
       "outlines": 4
     },
     "437": {
+      "name": "NEEPAWA (TOWN)",
       "rolls": 31,
       "outlines": 19
     },
     "443": {
+      "name": "RIVERDALE  (MUNICIPALITY)",
       "rolls": 86,
       "outlines": 59
     },
     "445": {
+      "name": "RUSSELL-BINSCARTH (MUNICIPALITY)",
       "rolls": 55,
       "outlines": 48
     },
     "447": {
+      "name": "SELKIRK (CITY)",
       "rolls": 34,
       "outlines": 25
     },
     "448": {
+      "name": "SNOW LAKE (TOWN)",
       "rolls": 19,
       "outlines": 11
     },
     "449": {
+      "name": "SOURIS-GLENWOOD (MUNICIPALITY)",
       "rolls": 32,
       "outlines": 29
     },
     "451": {
+      "name": "STEINBACH (CITY)",
       "rolls": 271,
       "outlines": 65
     },
     "453": {
+      "name": "STONEWALL (TOWN)",
       "rolls": 188,
       "outlines": 188
     },
     "455": {
+      "name": "SWAN RIVER (TOWN)",
       "rolls": 24,
       "outlines": 17
     },
     "457": {
+      "name": "THE PAS (TOWN)",
       "rolls": 24,
       "outlines": 18
     },
     "461": {
+      "name": "VIRDEN (TOWN)",
       "rolls": 1631,
       "outlines": 1631
     },
     "463": {
+      "name": "WINKLER (CITY)",
       "rolls": 5059,
       "outlines": 4936
     },
     "465": {
+      "name": "WINNIPEG BEACH (TOWN)",
       "rolls": 59,
       "outlines": 14
     },
     "500": {
+      "name": "BRANDON (CITY)",
       "rolls": 1034,
       "outlines": 827
     },
     "540": {
+      "name": "FLIN FLON (CITY)",
       "rolls": 60,
       "outlines": 54
     },
     "550": {
+      "name": "PORTAGE LA PRAIRIE (CITY)",
       "rolls": 49,
       "outlines": 36
     },
     "560": {
+      "name": "THOMPSON (CITY)",
       "rolls": 3,
       "outlines": 2
     },
     "600": {
+      "name": "ALEXANDER (RM)",
       "rolls": 1266,
       "outlines": 1259
     },
     "601": {
+      "name": "ALONSA (RM)",
       "rolls": 399,
       "outlines": 383
     },
     "602": {
+      "name": "ARMSTRONG (RM)",
       "rolls": 35,
       "outlines": 24
     },
     "603": {
+      "name": "CHURCHILL (TOWN)",
       "rolls": 18,
       "outlines": 11
     },
     "604": {
+      "name": "KELSEY (RM)",
       "rolls": 87,
       "outlines": 77
     },
     "605": {
+      "name": "FISHER (RM)",
       "rolls": 28,
       "outlines": 18
     },
     "606": {
+      "name": "GRAHAMDALE (RM)",
       "rolls": 72,
       "outlines": 49
     },
     "608": {
+      "name": "MYSTERY LAKE (LGD)",
       "rolls": 15,
       "outlines": 5
     },
     "609": {
+      "name": "HARRISON PARK (MUNICIPALITY)",
       "rolls": 48,
       "outlines": 38
     },
     "610": {
+      "name": "PINEY (RM)",
       "rolls": 183,
       "outlines": 50
     },
     "611": {
+      "name": "REYNOLDS (RM)",
       "rolls": 49,
       "outlines": 30
     },
     "612": {
+      "name": "STUARTBURN (RM)",
       "rolls": 65,
       "outlines": 38
     },
     "614": {
+      "name": "LYNN LAKE (TOWN)",
       "rolls": 100,
       "outlines": 100
     },
     "616": {
+      "name": "PINAWA (LGD)",
       "rolls": 1116,
       "outlines": 1117
     },
     "617": {
+      "name": "MOUNTAIN (RM)",
       "rolls": 512,
       "outlines": 507
     },
     "619": {
+      "name": "GILLAM (TOWN)",
       "rolls": 11,
       "outlines": 5
     },
     "700": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (700)",
       "rolls": 3,
       "outlines": 3
     },
     "701": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (701)",
       "rolls": 2,
       "outlines": 1
     },
     "702": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (702)",
       "rolls": 16,
       "outlines": 3
     },
     "703": {
+      "name": "INDIGENOUS&NORTHERN RELATIONS (703)",
       "rolls": 5,
       "outlines": 3
     },
     "704": {
+      "name": "GODS LAKE NARROWS (NORTHERN COMMUNITY)",
       "rolls": 1,
       "outlines": 1
     },
     "710": {
+      "name": "NORWAY HOUSE (NORTHERN COMMUNITY)",
       "rolls": 3,
       "outlines": 1
     },
     "712": {
+      "name": "PIKWITONEI (NORTHERN COMMUNITY)",
       "rolls": 1,
       "outlines": 1
     },
     "727": {
+      "name": "CRANE RIVER (NORTHERN COMMUNITY)",
       "rolls": 10,
       "outlines": 6
     },
     "729": {
+      "name": "MEADOW PORTAGE (NORTHERN COMMUNITY)",
       "rolls": 2,
       "outlines": 2
     },
     "731": {
+      "name": "SALT POINT (NORTHERN SETTLEMENT)",
       "rolls": 3,
       "outlines": 1
     },
     "732": {
+      "name": "SPENCE LAKE (NORTHERN COMMUNITY)",
       "rolls": 2,
       "outlines": 1
     },
     "733": {
+      "name": "WATERHEN (NORTHERN COMMUNITY)",
       "rolls": 16,
       "outlines": 15
     },
     "738": {
+      "name": "HERB LAKE LANDING (NORTHERN SETTLEMENT)",
       "rolls": 25,
       "outlines": 24
     },
     "744": {
+      "name": "BERENS RIVER (NORTHERN COMMUNITY)",
       "rolls": 2,
       "outlines": 2
     },
     "746": {
+      "name": "BISSETT (NORTHERN COMMUNITY)",
       "rolls": 2,
       "outlines": 2
     },
     "755": {
+      "name": "ISLAND LAKE (NORTHERN COMMUNITY)",
       "rolls": 113,
       "outlines": 112
     },
     "760": {
+      "name": "LITTLE GRAND RAPIDS (NORTHERN SETTLEMENT)",
       "rolls": 2,
       "outlines": 1
     },
     "761": {
+      "name": "LOON STRAITS (NORTHERN SETTLEMENT)",
       "rolls": 4,
       "outlines": 4
     },
     "762": {
+      "name": "MANIGOTAGAN (NORTHERN COMMUNITY)",
       "rolls": 3,
       "outlines": 3
     },
     "763": {
+      "name": "MATHESON ISLAND (NORTHERN COMMUNITY)",
       "rolls": 1,
       "outlines": 1
     },
     "783": {
+      "name": "CAMPERVILLE (NORTHERN COMMUNITY)",
       "rolls": 6,
       "outlines": 5
     },
     "786": {
+      "name": "DUCK BAY (NORTHERN COMMUNITY)",
       "rolls": 1,
       "outlines": 0
     }
