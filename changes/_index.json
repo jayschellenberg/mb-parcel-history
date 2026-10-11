@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T15:34:51-0500",
+  "generated": "2026-10-11T03:07:55-0500",
   "first_snapshot": "2025-02-12",
-  "last_snapshot": "2026-10-04",
-  "snapshots": ["2025-02-12", "2026-07-01", "2026-08-04", "2026-08-11", "2026-09-06", "2026-09-13", "2026-09-20", "2026-09-27", "2026-10-04"],
+  "last_snapshot": "2026-10-11",
+  "snapshots": ["2025-02-12", "2026-07-01", "2026-08-04", "2026-08-11", "2026-09-06", "2026-09-13", "2026-09-20", "2026-09-27", "2026-10-04", "2026-10-11"],
   "quarantined": ["2026-05-06"],
   "disclaimer": "Built from snapshots of the province's ROLL_ENTRY layer, which publishes no change dates: each change is known only to fall between two snapshot dates. Lineage (from / to) is inferred from overlapping outlines. Verify against registered plans and titles.",
   "munis": {
