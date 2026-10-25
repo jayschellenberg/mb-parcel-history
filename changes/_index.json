@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T08:08:11+0000",
+  "generated": "2026-10-25T03:08:21-0500",
   "first_snapshot": "2025-02-12",
-  "last_snapshot": "2026-10-18",
-  "snapshots": ["2025-02-12", "2026-07-01", "2026-08-04", "2026-08-11", "2026-09-06", "2026-09-13", "2026-09-20", "2026-09-27", "2026-10-04", "2026-10-11", "2026-10-18"],
+  "last_snapshot": "2026-10-25",
+  "snapshots": ["2025-02-12", "2026-07-01", "2026-08-04", "2026-08-11", "2026-09-06", "2026-09-13", "2026-09-20", "2026-09-27", "2026-10-04", "2026-10-11", "2026-10-18", "2026-10-25"],
   "quarantined": ["2026-05-06"],
   "disclaimer": "Built from snapshots of the province's ROLL_ENTRY layer, which publishes no change dates: each change is known only to fall between two snapshot dates. Lineage (from / to) is inferred from overlapping outlines. Verify against registered plans and titles.",
   "munis": {
     "101": {
       "name": "ELLICE-ARCHIE (RM)",
-      "rolls": 15,
+      "rolls": 16,
       "outlines": 14
     },
     "102": {
@@ -24,8 +24,8 @@
     },
     "107": {
       "name": "OAKVIEW (RM)",
-      "rolls": 50,
-      "outlines": 40
+      "rolls": 51,
+      "outlines": 41
     },
     "109": {
       "name": "BRENDA-WASKADA (MUNICIPALITY)",
@@ -64,8 +64,8 @@
     },
     "118": {
       "name": "DAUPHIN (RM)",
-      "rolls": 152,
-      "outlines": 60
+      "rolls": 153,
+      "outlines": 61
     },
     "119": {
       "name": "DE SALABERRY (RM)",
@@ -114,13 +114,13 @@
     },
     "133": {
       "name": "GREY (RM)",
-      "rolls": 46,
-      "outlines": 33
+      "rolls": 52,
+      "outlines": 38
     },
     "135": {
       "name": "HANOVER (RM)",
-      "rolls": 313,
-      "outlines": 60
+      "rolls": 358,
+      "outlines": 88
     },
     "138": {
       "name": "LA BROQUERIE (RM)",
@@ -134,8 +134,8 @@
     },
     "142": {
       "name": "GLENELLA-LANSDOWNE (MUNICIPALITY)",
-      "rolls": 18,
-      "outlines": 11
+      "rolls": 19,
+      "outlines": 12
     },
     "143": {
       "name": "LAKESHORE (RM)",
@@ -144,18 +144,18 @@
     },
     "144": {
       "name": "LORNE (MUNICIPALITY)",
-      "rolls": 56,
-      "outlines": 44
+      "rolls": 82,
+      "outlines": 54
     },
     "145": {
       "name": "LOUISE (MUNICIPALITY)",
-      "rolls": 53,
-      "outlines": 15
+      "rolls": 73,
+      "outlines": 33
     },
     "146": {
       "name": "MACDONALD (RM)",
-      "rolls": 596,
-      "outlines": 150
+      "rolls": 612,
+      "outlines": 163
     },
     "147": {
       "name": "MCCREARY (MUNICIPALITY)",
@@ -184,8 +184,8 @@
     },
     "154": {
       "name": "MOSSEY RIVER (MUNICIPALITY)",
-      "rolls": 57,
-      "outlines": 33
+      "rolls": 59,
+      "outlines": 35
     },
     "155": {
       "name": "NORTH CYPRESS-LANGFORD (MUNICIPALITY)",
@@ -194,8 +194,8 @@
     },
     "156": {
       "name": "NORTH NORFOLK (MUNICIPALITY)",
-      "rolls": 114,
-      "outlines": 55
+      "rolls": 115,
+      "outlines": 57
     },
     "157": {
       "name": "OAKLAND-WAWANESA (MUNICIPALITY)",
@@ -204,8 +204,8 @@
     },
     "159": {
       "name": "MINTO-ODANAH (RM)",
-      "rolls": 20,
-      "outlines": 14
+      "rolls": 73,
+      "outlines": 15
     },
     "161": {
       "name": "PEMBINA (MUNICIPALITY)",
@@ -219,13 +219,13 @@
     },
     "163": {
       "name": "PORTAGE LA PRAIRIE (RM)",
-      "rolls": 523,
-      "outlines": 106
+      "rolls": 564,
+      "outlines": 149
     },
     "164": {
       "name": "RHINELAND (MUNICIPALITY)",
-      "rolls": 63,
-      "outlines": 44
+      "rolls": 69,
+      "outlines": 49
     },
     "165": {
       "name": "RITCHOT (RM)",
@@ -234,8 +234,8 @@
     },
     "167": {
       "name": "CARTWRIGHT-ROBLIN  (MUNICIPALITY)",
-      "rolls": 61,
-      "outlines": 60
+      "rolls": 65,
+      "outlines": 64
     },
     "168": {
       "name": "ROCKWOOD (RM)",
@@ -249,8 +249,8 @@
     },
     "170": {
       "name": "ROSEDALE (RM)",
-      "rolls": 186,
-      "outlines": 44
+      "rolls": 210,
+      "outlines": 68
     },
     "172": {
       "name": "ROSSER (RM)",
@@ -269,8 +269,8 @@
     },
     "176": {
       "name": "ST CLEMENTS (RM)",
-      "rolls": 435,
-      "outlines": 119
+      "rolls": 562,
+      "outlines": 165
     },
     "177": {
       "name": "ST FRANCOIS XAVIER (RM)",
@@ -284,23 +284,23 @@
     },
     "181": {
       "name": "RIDING MOUNTAIN WEST (RM)",
-      "rolls": 222,
-      "outlines": 132
+      "rolls": 224,
+      "outlines": 134
     },
     "182": {
       "name": "ROBLIN (MUNICIPALITY)",
-      "rolls": 85,
-      "outlines": 72
+      "rolls": 98,
+      "outlines": 85
     },
     "183": {
       "name": "YELLOWHEAD (MUNICIPALITY)",
-      "rolls": 28,
-      "outlines": 17
+      "rolls": 30,
+      "outlines": 19
     },
     "184": {
       "name": "SIFTON (RM)",
-      "rolls": 101,
-      "outlines": 80
+      "rolls": 106,
+      "outlines": 83
     },
     "185": {
       "name": "WEST INTERLAKE (RM)",
@@ -309,13 +309,13 @@
     },
     "187": {
       "name": "GLENBORO-SOUTH CYPRESS (MUNICIPALITY)",
-      "rolls": 36,
-      "outlines": 24
+      "rolls": 38,
+      "outlines": 26
     },
     "188": {
       "name": "NORFOLK TREHERNE (MUNICIPALITY)",
-      "rolls": 35,
-      "outlines": 20
+      "rolls": 45,
+      "outlines": 27
     },
     "189": {
       "name": "SPRINGFIELD (RM)",
@@ -344,18 +344,18 @@
     },
     "195": {
       "name": "THOMPSON (RM)",
-      "rolls": 27,
-      "outlines": 20
+      "rolls": 43,
+      "outlines": 34
     },
     "196": {
       "name": "KILLARNEY TURTLE MOUNTAIN (MUNICIPALITY)",
-      "rolls": 56,
-      "outlines": 46
+      "rolls": 58,
+      "outlines": 48
     },
     "197": {
       "name": "VICTORIA (RM)",
-      "rolls": 12,
-      "outlines": 5
+      "rolls": 18,
+      "outlines": 11
     },
     "198": {
       "name": "VICTORIA BEACH (RM)",
@@ -369,13 +369,13 @@
     },
     "200": {
       "name": "WESTLAKE-GLADSTONE (MUNICIPALITY)",
-      "rolls": 71,
-      "outlines": 38
+      "rolls": 80,
+      "outlines": 44
     },
     "201": {
       "name": "WEST ST PAUL (RM)",
       "rolls": 269,
-      "outlines": 58
+      "outlines": 60
     },
     "202": {
       "name": "WHITEHEAD (RM)",
@@ -384,13 +384,13 @@
     },
     "203": {
       "name": "WHITEMOUTH (RM)",
-      "rolls": 689,
-      "outlines": 203
+      "rolls": 999,
+      "outlines": 308
     },
     "205": {
       "name": "DELORAINE-WINCHESTER (MUNICIPALITY)",
-      "rolls": 39,
-      "outlines": 32
+      "rolls": 84,
+      "outlines": 77
     },
     "206": {
       "name": "WOODLANDS (RM)",
@@ -414,12 +414,12 @@
     },
     "323": {
       "name": "GILBERT PLAINS  (MUNICIPALITY)",
-      "rolls": 45,
-      "outlines": 33
+      "rolls": 47,
+      "outlines": 35
     },
     "331": {
       "name": "HAMIOTA  (MUNICIPALITY)",
-      "rolls": 25,
+      "rolls": 26,
       "outlines": 18
     },
     "333": {
@@ -464,8 +464,8 @@
     },
     "400": {
       "name": "ALTONA (TOWN)",
-      "rolls": 47,
-      "outlines": 17
+      "rolls": 50,
+      "outlines": 20
     },
     "401": {
       "name": "BEAUSEJOUR (TOWN)",
@@ -474,8 +474,8 @@
     },
     "403": {
       "name": "PRAIRIE VIEW  (MUNICIPALITY)",
-      "rolls": 63,
-      "outlines": 51
+      "rolls": 68,
+      "outlines": 55
     },
     "407": {
       "name": "CARBERRY (TOWN)",
@@ -489,8 +489,8 @@
     },
     "411": {
       "name": "DAUPHIN (CITY)",
-      "rolls": 14,
-      "outlines": 12
+      "rolls": 18,
+      "outlines": 14
     },
     "429": {
       "name": "MELITA (TOWN)",
@@ -499,8 +499,8 @@
     },
     "431": {
       "name": "MINNEDOSA (TOWN)",
-      "rolls": 44,
-      "outlines": 17
+      "rolls": 57,
+      "outlines": 30
     },
     "433": {
       "name": "MORDEN (CITY)",
@@ -514,8 +514,8 @@
     },
     "437": {
       "name": "NEEPAWA (TOWN)",
-      "rolls": 31,
-      "outlines": 19
+      "rolls": 36,
+      "outlines": 24
     },
     "443": {
       "name": "RIVERDALE  (MUNICIPALITY)",
@@ -529,8 +529,8 @@
     },
     "447": {
       "name": "SELKIRK (CITY)",
-      "rolls": 34,
-      "outlines": 25
+      "rolls": 42,
+      "outlines": 29
     },
     "448": {
       "name": "SNOW LAKE (TOWN)",
@@ -540,12 +540,12 @@
     "449": {
       "name": "SOURIS-GLENWOOD (MUNICIPALITY)",
       "rolls": 32,
-      "outlines": 29
+      "outlines": 31
     },
     "451": {
       "name": "STEINBACH (CITY)",
-      "rolls": 271,
-      "outlines": 65
+      "rolls": 285,
+      "outlines": 79
     },
     "453": {
       "name": "STONEWALL (TOWN)",
@@ -569,8 +569,8 @@
     },
     "463": {
       "name": "WINKLER (CITY)",
-      "rolls": 5059,
-      "outlines": 199
+      "rolls": 5060,
+      "outlines": 201
     },
     "465": {
       "name": "WINNIPEG BEACH (TOWN)",
@@ -579,8 +579,8 @@
     },
     "500": {
       "name": "BRANDON (CITY)",
-      "rolls": 1034,
-      "outlines": 383
+      "rolls": 1035,
+      "outlines": 385
     },
     "540": {
       "name": "FLIN FLON (CITY)",
@@ -605,7 +605,7 @@
     "601": {
       "name": "ALONSA (RM)",
       "rolls": 399,
-      "outlines": 169
+      "outlines": 170
     },
     "602": {
       "name": "ARMSTRONG (RM)",
@@ -629,7 +629,7 @@
     },
     "606": {
       "name": "GRAHAMDALE (RM)",
-      "rolls": 72,
+      "rolls": 73,
       "outlines": 49
     },
     "608": {
@@ -639,13 +639,13 @@
     },
     "609": {
       "name": "HARRISON PARK (MUNICIPALITY)",
-      "rolls": 48,
-      "outlines": 38
+      "rolls": 50,
+      "outlines": 40
     },
     "610": {
       "name": "PINEY (RM)",
-      "rolls": 183,
-      "outlines": 50
+      "rolls": 184,
+      "outlines": 51
     },
     "611": {
       "name": "REYNOLDS (RM)",
