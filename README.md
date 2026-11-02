@@ -1,5 +1,7 @@
 # mb-parcel-history
 
+Status: Maintained | Next: tbd | Blocked: none | Updated: 2026-11-01
+
 Per-municipality **historical** snapshot shards for the Manitoba parcel
 search webapp's "as-of-year" (historical compare) view. Served as static
 files via the free **jsDelivr** CDN — kept here, separate from the main
